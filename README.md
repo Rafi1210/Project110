@@ -6,8 +6,8 @@ managing car inventory, sales transactions, and customer
 interactions.
 ● It focuses on automating manual tasks, improving operational
 efficiency, and enhancing customer satisfaction.
-<h1>
-Project Description</h1>
+
+<h1>Project Description</h1>
 ● The primary objective of the Car Sales System is to simplify and
 optimize car management operations.
 ● The system aims to provide a user-friendly interface for users to
@@ -18,8 +18,8 @@ system improves efficiency, reduces errors, and enhances
 customer experience
 
 <h1>Features </h1>
-● User Registration and Login: Customers and Salesmen can easily
-register and log in to the system, ensuring secure access.For
+<h3> User Registration and Login:</h3> 
+Customers and Salesmen can easily register and log in to the system, ensuring secure access.For
 Customer account a random 6 digit unique id generate with
 #C(random number) and in Salesman account another random 6 digit
 unique id generate with #S(random number) .
